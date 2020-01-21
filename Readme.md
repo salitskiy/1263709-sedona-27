@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Андрей Салицкий](https://up.htmlacademy.ru/htmlcss/27/user/1263709).
-* Наставник: `Дмитрий Половков`.
+* Наставник: `Дмитрий Половков`.(https://htmlacademy.ru/profile/psinegmatic)
 
 ---
 
